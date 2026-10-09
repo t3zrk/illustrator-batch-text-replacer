@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/hero.svg" alt="Illustrator Batch Text Replacer" width="100%" />
+  <img src="docs/hero.png" alt="Illustrator Batch Text Replacer" width="100%" />
 </p>
 
 # Illustrator Batch Text Replacer
@@ -34,6 +34,7 @@ illustrator-batch-text-replacer/
 ├─ src/
 │  └─ IllustratorBatchTextReplacer.jsx
 ├─ docs/
+│  ├─ hero.png
 │  ├─ hero.svg
 │  └─ PORTFOLIO.md
 ├─ archive/
